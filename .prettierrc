@@ -1,0 +1,6 @@
+{
+  "singleQuote": true,
+  "extends": ["airbnb", "prettier"],
+  "trailingComma": "all",
+  "endOfLine": "lf"
+}
